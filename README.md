@@ -7,11 +7,13 @@ I am a final-year **B.Tech Computer Science and Engineering** student at **Motil
 Built *PowerPatrol*, a RAG-based Jira defect triage system using FastAPI, ChromaDB, and sentence-transformer embeddings. It was deployed to production and improved triaging accuracy by about 15%.
 
 ## Featured Projects
-- **MealMatch:** real-time surplus food redistribution platform (React, Node.js, MongoDB, Mapbox, JWT)
-- **Urban Resolve:** secure full-stack platform for municipal complaint resolution (React, Node.js, MongoDB, MUI)
+- **[MealMatch](https://github.com/pushp2211/MealMatch)** — real-time surplus food redistribution platform (React, Node.js, MongoDB, Mapbox, JWT)
+  [🔗 Live Demo](https://mealmatch-frontend-iiw5.onrender.com/) | [💻 Source Code](https://github.com/pushp2211/MealMatch)
+- **[Urban Resolve](https://github.com/pushp2211/Urban_Resolve)** — secure full-stack platform for municipal complaint resolution (React, Node.js, MongoDB, MUI)
+  [🔗 Live Demo](https://urban-resolve-client.onrender.com/urban-resolve) | [💻 Source Code](https://github.com/pushp2211/Urban_Resolve)
 
 ## Technical Skills
-**Language:** C++,Python,Javascript
+**Languages:** C++, Python, JavaScript
 **Frameworks:** React.js, Node.js, Express.js
 **Databases & Tools:** MongoDB, SQL, Git, GitHub, VS Code
 **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
