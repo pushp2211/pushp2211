@@ -8,9 +8,9 @@ Built *PowerPatrol*, a RAG-based Jira defect triage system using FastAPI, Chroma
 
 ## Featured Projects
 - **[MealMatch](https://github.com/pushp2211/MealMatch)** — real-time surplus food redistribution platform (React, Node.js, MongoDB, Mapbox, JWT)
-  [🔗 Live Demo](https://mealmatch-frontend-iiw5.onrender.com/) | [💻 Source Code](https://github.com/pushp2211/MealMatch)
+  [🔗 Live Demo](https://mealmatch-frontend-iiw5.onrender.com/) 
 - **[Urban Resolve](https://github.com/pushp2211/Urban_Resolve)** — secure full-stack platform for municipal complaint resolution (React, Node.js, MongoDB, MUI)
-  [🔗 Live Demo](https://urban-resolve-client.onrender.com/urban-resolve) | [💻 Source Code](https://github.com/pushp2211/Urban_Resolve)
+  [🔗 Live Demo](https://urban-resolve-client.onrender.com/urban-resolve)
 
 ## Technical Skills
 **Languages:** C++, Python, JavaScript
