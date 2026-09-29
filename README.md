@@ -11,7 +11,7 @@ Built *PowerPatrol*, a RAG-based Jira defect triage system using FastAPI, Chroma
 - **Urban Resolve:** secure full-stack platform for municipal complaint resolution (React, Node.js, MongoDB, MUI)
 
 ## Technical Skills
-**Language:** C++
+**Language:** C++,Python,Javascript
 **Frameworks:** React.js, Node.js, Express.js
 **Databases & Tools:** MongoDB, SQL, Git, GitHub, VS Code
 **Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
@@ -19,7 +19,7 @@ Built *PowerPatrol*, a RAG-based Jira defect triage system using FastAPI, Chroma
 ## Achievements
 - Solved 1200+ Data Structures and Algorithms problems
 - **Knight** on LeetCode (max rating 1934)
-- **Specialist** on Codeforces (max rating 1417)
+- **Specialist** on Codeforces (max rating 1419)
 
 ## Coding Profiles
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/pushpraj_11)
